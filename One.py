@@ -4,3 +4,6 @@ b=20
 print(a+b)
 Dict={1:'alex',2:'john'}
 print(Dict.items())
+
+def Fun():
+    print("Welcome home")
